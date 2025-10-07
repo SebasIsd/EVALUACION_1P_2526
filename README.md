@@ -218,8 +218,10 @@ doc/*.txt`
   * git commit -m "Pregunta 4: Respuesta y documentación"
   * git push origin develop
 
-![comandos](img/9.png)
----
+![comandos](img/10.png)
+
+  * Número y enlace del Issue: #X (por ejemplo, https://github.com/santiagojara/EVALUACION_1P/issues/101)
+  * Número y enlace del Pull Request: #Y (por ejemplo, https://github.com/santiagojara/EVALUACION_1P/pull/104)
 
 ## Pregunta 5 (2 puntos)
 
