@@ -168,9 +168,12 @@ doc/*.txt`
 
 ![comandos](img/8.png)
 
-
-
-
+* Edite el encabezado e hice el commit correspondiente:
+`git add .`
+`git commit -m "Pregunta 3: Actualizar encabezado en hotfix"`
+* Finalizar el hotfix
+`git flow hotfix finish ingresar-encabezado`
+![comandos](img/9.png)
 ---
 
 ## Pregunta 4 (2 puntos)
