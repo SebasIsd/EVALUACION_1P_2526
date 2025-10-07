@@ -174,6 +174,9 @@ doc/*.txt`
 * Finalizar el hotfix
 `git flow hotfix finish ingresar-encabezado`
 ![comandos](img/9.png)
+* Hago los ultimos comandos:
+`git tag -a v3.0.0 -m "Pregunta 3" [commit]`
+`git push origin main develop --tags`
 ---
 
 ## Pregunta 4 (2 puntos)
