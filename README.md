@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
+# Universidad Técnica de Ambato  
+## Facultad de Ingenieria en Sistemas, Electronica e Industrial
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Sebastian Santana  
+**Fecha:** 07/10/2025 
 
 ---
 
@@ -166,7 +166,14 @@ doc/*.txt`
 * Creamos hotfix:
 `git flow hotfix start ingresar-encabezado`
 
+![comandos](img/8.png)
 
+* Edite el encabezado e hice el commit correspondiente:
+`git add .`
+`git commit -m "Pregunta 3: Actualizar encabezado en hotfix"`
+* Finalizar el hotfix
+`git flow hotfix finish ingresar-encabezado`
+![comandos](img/9.png)
 ---
 
 ## Pregunta 4 (2 puntos)
